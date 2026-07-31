@@ -32,12 +32,12 @@ Também possuo experiência com:
 * React Navigation e Expo Router
 * Context API e gerenciamento de estados
 * React Hook Form e validação de formulários
-* Clean Architecture, arquitetura VIP e injeção de dependências
+* Clean Architecture, MVVM, arquitetura VIP e injeção de dependências
 * Git e GitHub
 
 ## 💻 Projetos em destaque
 
-### Bentoshi
+### Bentochi
 
 Aplicativo nativo para macOS desenvolvido em equipe para organizar arquivos, links e anotações em espaços visuais personalizados.
 
@@ -45,7 +45,7 @@ Minha principal atuação foi na estruturação da arquitetura da aplicação e 
 
 **Tecnologias:** Swift, SwiftUI, SwiftData, AppKit e arquitetura VIP.
 
-[🔗 Ver projeto](COLOQUE_AQUI_O_LINK_DO_BENTOSHI)
+[🔗 Ver projeto na App Store](https://apps.apple.com/br/app/bentochi/id6785552450?mt=12)
 
 > O código-fonte não está disponível publicamente por se tratar de um projeto desenvolvido em equipe.
 
@@ -59,7 +59,7 @@ Atuei na estruturação da aplicação utilizando Clean Architecture, na integra
 
 **Tecnologias:** Swift, SwiftUI, APIs REST, Clean Architecture e injeção de dependências.
 
-[🔗 Ver projeto](COLOQUE_AQUI_O_LINK_DO_BORAALI)
+[🔗 Ver projeto na App Store](https://apps.apple.com/br/app/borali-explore-bras%C3%ADlia/id6764412373)
 
 > O código-fonte não está disponível publicamente por se tratar de um projeto desenvolvido em equipe.
 
@@ -73,7 +73,7 @@ Minha principal contribuição foi na implementação das mecânicas do endless 
 
 **Tecnologias:** Swift, SpriteKit e desenvolvimento de jogos 2D.
 
-[🔗 Ver projeto](COLOQUE_AQUI_O_LINK_DO_RUNIVERSE)
+[🔗 Ver projeto na App Store](https://apps.apple.com/br/app/runiverse-save-the-universe/id6752032792)
 
 > O código-fonte não está disponível publicamente por se tratar de um projeto desenvolvido em equipe.
 
@@ -93,7 +93,7 @@ A aplicação mobile foi integrada a uma API disponibilizada pela Rocketseat.
 
 **Tecnologias:** React Native, Expo, TypeScript, Axios, React Navigation, Context API, AsyncStorage, React Hook Form e Yup.
 
-[📂 Ver repositório](COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_MARKETSPACE)
+[📂 Ver repositório](https://github.com/lizandramalta/marketspace)
 
 ---
 
@@ -107,7 +107,7 @@ A API utilizada no projeto foi disponibilizada pela Rocketseat.
 
 **Tecnologias:** React Native, Expo, TypeScript, Axios, React Navigation, Context API, AsyncStorage, React Hook Form, Yup e Gluestack UI.
 
-[📂 Ver repositório](COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_IGNITE_GYM)
+[📂 Ver repositório](https://github.com/lizandramalta/ignitegym)
 
 ---
 
@@ -121,7 +121,7 @@ A API utilizada no projeto foi disponibilizada pela Rocketseat durante um evento
 
 **Tecnologias:** React Native, Expo, TypeScript, Expo Router, React Native Maps, Expo Camera e Axios.
 
-[📂 Ver repositório](COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_NEARBY)
+[📂 Ver repositório](https://github.com/lizandramalta/nearby)
 
 ---
 
@@ -133,7 +133,7 @@ Implementei o CRUD de refeições, agrupamento dos registros por data e cálculo
 
 **Tecnologias:** React Native, Expo, TypeScript, AsyncStorage, React Navigation e Styled Components.
 
-[📂 Ver repositório](COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_DAILY_DIET)
+[📂 Ver repositório](https://github.com/lizandramalta/daily-diet-app)
 
 ## 🌱 Atualmente estudando
 
