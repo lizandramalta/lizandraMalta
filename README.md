@@ -162,5 +162,5 @@ No longo prazo, quero assumir responsabilidades maiores nas decisões técnicas 
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lizandra%20Malta-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/lizandra-malta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lizandra%20Malta-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lizandra-malta)
 [![E-mail](https://img.shields.io/badge/E--mail-Entre%20em%20contato-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lizandramalta.developer@gmail.com)
